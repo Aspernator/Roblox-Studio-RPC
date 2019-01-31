@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aspernator",
-  "license": "ISC",
+  "license": "GPLv3",
   "dependencies": {
     "discord-rpc": "^3.0.1",
     "express": "^4.16.4"
