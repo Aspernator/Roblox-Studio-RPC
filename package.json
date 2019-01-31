@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "discord-rpc": "^3.0.1",
-    "electron": "^4.0.2",
     "express": "^4.16.4"
   }
 }
